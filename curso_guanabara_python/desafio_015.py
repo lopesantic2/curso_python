@@ -5,7 +5,6 @@ Exercício Python 15: Escreva um programa que pergunte a quantidade de Km percor
 km_percorrido = float(input('km percorrido: '))
 qtd_dias = int(input('Dias alugados: '))
 
-# km = km_percorrido * 1000
 
 preco_km = km_percorrido * 0.15
 preco_dia = qtd_dias * 60

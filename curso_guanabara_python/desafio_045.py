@@ -1,3 +1,7 @@
+# JOGO DO PEDRA, PAPEL, TESOURA
+# UTILIZANDO BIBLIOTECAS
+
+
 from random import randint
 from time import sleep
 
